@@ -1,1 +1,1 @@
-nothing
+Flutter & Java Mobile Application Developer with 2.7 years of experience building scalable, production-ready applications across mobile and desktop platforms, with strong expertise in POS and enterprise systems.
